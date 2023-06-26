@@ -23,13 +23,13 @@ searchBtn.addEventListener("click", () => {
       </div>
       <div class="wrapper">
       <div class="data-wrapper">
-      <h4>Description:</h4>
+      <h4>Gender:</h4>
       <span>${data.data[0].gender}</span>
       </div>
       </div>
       <div class="wrapper">
       <div class="data-wrapper">
-      <h4>Description:</h4>
+      <h4>Race:</h4>
       <span>${data.data[0].race}</span>
       </div>
       </div>
